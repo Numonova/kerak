@@ -1,0 +1,14 @@
+D:\Projects\kerak\kerak\bin\Debug\net6.0\kerak.exe
+D:\Projects\kerak\kerak\bin\Debug\net6.0\kerak.deps.json
+D:\Projects\kerak\kerak\bin\Debug\net6.0\kerak.runtimeconfig.json
+D:\Projects\kerak\kerak\bin\Debug\net6.0\kerak.dll
+D:\Projects\kerak\kerak\bin\Debug\net6.0\kerak.pdb
+D:\Projects\kerak\kerak\obj\Debug\net6.0\kerak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\kerak\kerak\obj\Debug\net6.0\kerak.AssemblyInfoInputs.cache
+D:\Projects\kerak\kerak\obj\Debug\net6.0\kerak.AssemblyInfo.cs
+D:\Projects\kerak\kerak\obj\Debug\net6.0\kerak.csproj.CoreCompileInputs.cache
+D:\Projects\kerak\kerak\obj\Debug\net6.0\kerak.dll
+D:\Projects\kerak\kerak\obj\Debug\net6.0\refint\kerak.dll
+D:\Projects\kerak\kerak\obj\Debug\net6.0\kerak.pdb
+D:\Projects\kerak\kerak\obj\Debug\net6.0\kerak.genruntimeconfig.cache
+D:\Projects\kerak\kerak\obj\Debug\net6.0\ref\kerak.dll
